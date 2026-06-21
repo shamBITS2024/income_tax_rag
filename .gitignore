@@ -1,0 +1,11 @@
+# Exclude raw HTML downloads — too large for git
+income_tax_sections/**/*.html
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Logs
+income_tax_sections/scraping_log.txt
+downloaded_files/
