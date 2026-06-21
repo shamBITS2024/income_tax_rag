@@ -9,3 +9,9 @@ __pycache__/
 # Logs
 income_tax_sections/scraping_log.txt
 downloaded_files/
+
+# Object file
+*.o
+
+# Ada Library Information
+*.ali
